@@ -1,0 +1,26 @@
+# ninja log v6
+8	1471	7524214486532234	CMakeFiles/untitled1.dir/Graph.cpp.obj	5405a71e581501e4
+9	1270	7524212824971632	CMakeFiles/untitled1.dir/main.cpp.obj	aaff89c82c1c63d0
+7	872	7524215162685201	CMakeFiles/untitled1.dir/TSPBranchAndBound.cpp.obj	f3189f10cbe41ea4
+872	1110	7524215171335866	untitled1.exe	5e025fda756bf8ad
+53	2785	7525046311781466	CMakeFiles/untitled1.dir/TSPBranchAndBound.cpp.obj	464d25702e4ef016
+14	2791	7525046311398122	CMakeFiles/untitled1.dir/main.cpp.obj	bf6edee3430e9886
+64	3751	7525046311892317	CMakeFiles/untitled1.dir/Graph.cpp.obj	c676957672bcd8eb
+3751	11583	7525046348768189	untitled1.exe	5e025fda756bf8ad
+34	1644	7525049109671025	CMakeFiles/untitled1.dir/Graph.cpp.obj	c676957672bcd8eb
+1645	1984	7525049125784517	untitled1.exe	5e025fda756bf8ad
+13	1182	7525050068907939	CMakeFiles/untitled1.dir/main.cpp.obj	bf6edee3430e9886
+28	1556	7525050069067523	CMakeFiles/untitled1.dir/Graph.cpp.obj	c676957672bcd8eb
+1556	1920	7525050084344824	untitled1.exe	5e025fda756bf8ad
+8	843	7525050431405719	CMakeFiles/untitled1.dir/main.cpp.obj	bf6edee3430e9886
+843	1081	7525050439756600	untitled1.exe	5e025fda756bf8ad
+8	875	7525050586075127	CMakeFiles/untitled1.dir/main.cpp.obj	bf6edee3430e9886
+876	1112	7525050594743580	untitled1.exe	5e025fda756bf8ad
+11	1476	7525050955517620	CMakeFiles/untitled1.dir/Graph.cpp.obj	c676957672bcd8eb
+1477	1707	7525050970176468	untitled1.exe	5e025fda756bf8ad
+9	1438	7525051835771066	CMakeFiles/untitled1.dir/Graph.cpp.obj	c676957672bcd8eb
+1439	1776	7525051850077060	untitled1.exe	5e025fda756bf8ad
+9	956	7525051984378960	CMakeFiles/untitled1.dir/main.cpp.obj	bf6edee3430e9886
+956	1226	7525051993854211	untitled1.exe	5e025fda756bf8ad
+8	968	7525052053785720	CMakeFiles/untitled1.dir/main.cpp.obj	bf6edee3430e9886
+969	1232	7525052063386062	untitled1.exe	5e025fda756bf8ad
